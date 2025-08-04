@@ -1,0 +1,15 @@
+Description
+
+This program implements a course manager using a binary search tree to store course data. It loads course information from a CSV file and provides a simple menu to load courses, list all courses, find or remove a course, and quit.
+
+Features
+
+Load courses from a file into a binary search tree
+
+List all courses in sorted order
+
+Search for a course by code and display its details
+
+Remove a course by code
+
+Handle missing or malformed records gracefully
